@@ -1,0 +1,16 @@
+C:\Users\willi\Desktop\Exercise-Cellphone\bin\Debug\net5.0\Exercise-Cellphone.exe
+C:\Users\willi\Desktop\Exercise-Cellphone\bin\Debug\net5.0\Exercise-Cellphone.deps.json
+C:\Users\willi\Desktop\Exercise-Cellphone\bin\Debug\net5.0\Exercise-Cellphone.runtimeconfig.json
+C:\Users\willi\Desktop\Exercise-Cellphone\bin\Debug\net5.0\Exercise-Cellphone.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Exercise-Cellphone\bin\Debug\net5.0\Exercise-Cellphone.dll
+C:\Users\willi\Desktop\Exercise-Cellphone\bin\Debug\net5.0\ref\Exercise-Cellphone.dll
+C:\Users\willi\Desktop\Exercise-Cellphone\bin\Debug\net5.0\Exercise-Cellphone.pdb
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\Exercise-Cellphone.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\Exercise-Cellphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\Exercise-Cellphone.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\Exercise-Cellphone.AssemblyInfo.cs
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\Exercise-Cellphone.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\Exercise-Cellphone.dll
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\ref\Exercise-Cellphone.dll
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\Exercise-Cellphone.pdb
+C:\Users\willi\Desktop\Exercise-Cellphone\obj\Debug\net5.0\Exercise-Cellphone.genruntimeconfig.cache
